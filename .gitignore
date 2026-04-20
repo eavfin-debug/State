@@ -1,0 +1,14 @@
+.cargo/
+.codex
+.env
+.env.*
+!.env.example
+!deploy/.env.example
+.postgres/
+.ssh/
+.tools/
+WORK_ENV_SUMMARY.md
+deploy/.env
+deploy/caddy_data/
+deploy/caddy_config/
+rust-pg-healthcheck/target/
